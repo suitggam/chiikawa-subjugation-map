@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "src/main/java"
+    ],
+    "java.project.outputPath": ".tools/vscode-classes",
+    "java.project.referencedLibraries": [
+        ".tools/tomcat/lib/servlet-api.jar"
+    ]
+}
